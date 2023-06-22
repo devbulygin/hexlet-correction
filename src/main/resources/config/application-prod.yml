@@ -43,7 +43,3 @@ server:
     include-stacktrace: never
 
 
-
-postgresql://postgres:L1QwdPuYJXRQqYwzNAyj@containers-us-west-100:
-  postgres
-  L1QwdPuYJXRQqYwzNAyj
